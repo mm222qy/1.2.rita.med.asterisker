@@ -1,0 +1,6 @@
+c:\users\reiyo_000\documents\visual studio 2013\Projects\1.2.rita.med.asterisker\1.2.rita.med.asterisker\bin\Debug\1.2.rita.med.asterisker.exe.config
+c:\users\reiyo_000\documents\visual studio 2013\Projects\1.2.rita.med.asterisker\1.2.rita.med.asterisker\bin\Debug\1.2.rita.med.asterisker.exe
+c:\users\reiyo_000\documents\visual studio 2013\Projects\1.2.rita.med.asterisker\1.2.rita.med.asterisker\bin\Debug\1.2.rita.med.asterisker.pdb
+c:\users\reiyo_000\documents\visual studio 2013\Projects\1.2.rita.med.asterisker\1.2.rita.med.asterisker\obj\Debug\1.2.rita.med.asterisker.csprojResolveAssemblyReference.cache
+c:\users\reiyo_000\documents\visual studio 2013\Projects\1.2.rita.med.asterisker\1.2.rita.med.asterisker\obj\Debug\1.2.rita.med.asterisker.exe
+c:\users\reiyo_000\documents\visual studio 2013\Projects\1.2.rita.med.asterisker\1.2.rita.med.asterisker\obj\Debug\1.2.rita.med.asterisker.pdb
